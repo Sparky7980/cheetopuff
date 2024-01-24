@@ -1,1 +1,3 @@
-# yohoho
+# Cheats:
+Cookie Clicker
+Yohoho
