@@ -2,7 +2,6 @@ console.log("Script By Sparky7980")
 localStorage.setItem("totalWins", 968);
 localStorage.setItem("totalKills", 98765);
 localStorage.setItem("coinsOwned", 87687677432);
-localStorage.setItem("username", hecker);
 var b = prompt("What character would you like? 1-35");
         if(isNaN(b) || b < 1 || b > 35){
             window.alert("Please put a number from 1-35 next time.");
