@@ -1,3 +1,4 @@
 # Cheats:
 Cookie Clicker <p>
-Yohoho
+Yohoho <p>
+Idle Breakout <p>
